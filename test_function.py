@@ -10,3 +10,6 @@ def test_add_2():
 
 def test_add_3():
     assert function.add(3, 7) == 10
+
+def test_add_4():
+    assert function.add(10, 20) == 30
