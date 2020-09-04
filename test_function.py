@@ -16,3 +16,6 @@ def test_add_4():
 
 def test_add_5():
     assert function.add(0, 0) == 0
+
+def test_add_6():
+    assert function.add(-2, -2) == -4
